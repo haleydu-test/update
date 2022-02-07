@@ -34,97 +34,12 @@
       "parseCategoryInfoAuthor":"dl > dd:eq(3)",
       "parseCategoryInfoUpdate":"dl > dd"
     },
-
-    "BAINIANMH":{
-      "baseUrl":"https://m.bnman.net",
-      "serverUrl":"",
-      "search":"/search/%s/%d.html",
-
-      "searchInfoList":"ul.tbox_m > li",
-      "searchInfoCid":"a",
-      "searchInfoTitle":"h4 > a",
-      "searchInfoCover":"mip-img",
-      "searchInfoAuthor":"",
-      "searchInfoUpdate":"h4.h4.red",
-
-      "parseInfoTitle":"div.dbox > div.data > h4",
-      "parseInfoCover":"div.dbox > div.img > mip-img",
-      "parseInfoIntro":"div.tbox_js",
-      "parseInfoAuthor":"div.dbox > div.data > p.dir",
-      "parseInfoUpdate":"div.dbox > div.data > p.act",
-      "parseInfoStatus":"span.list_item",
-
-      "parseChapterList1":"div.tabs_block > ul.list_block > li > a:not([target])",
-      "parseChapterList2":"",
-      "parseChapterPath":"",
-      "parseChapterTitle":"",
-
-      "parseImageList":"",
-
-      "parseCategoryPath":"/%d.html"
-    },
-
-    "MH360":{
-      "baseUrl":"https://m.100fanwo.com",
-      "serverUrl":"https://res99.shut123.com/",
-      "search":"/search/?keywords=%s&page=",
-
-      "searchInfoList":"div.UpdateList > div.itemBox",
-      "searchInfoCid":"div.itemTxt > a",
-      "searchInfoTitle":"div.itemTxt > a",
-      "searchInfoCover":"div.itemImg > a > mip-img",
-      "searchInfoAuthor":"div.itemTxt > p:eq(1)",
-      "searchInfoUpdate":"div.itemTxt > p > span.date",
-
-      "parseInfoTitle":"#Cover > mip-img",
-      "parseInfoCover":"#Cover > mip-img",
-      "parseInfoIntro":"div.comic-view.clearfix > p",
-      "parseInfoAuthor":"div.pic > dl:eq(2) > dd",
-      "parseInfoUpdate":"div.pic > dl:eq(4) > dd",
-      "parseInfoStatus":"div.cl > span.uk-label",
-
-      "parseChapterList1":"ul[id^=chapter-list] > li > a",
-      "parseChapterList2":"",
-      "parseChapterPath":"",
-      "parseChapterTitle":"",
-
-      "parseImageList":"div.uk-text-center > img",
-
-      "parseCategoryPath":""
-    },
        
     "EHENTAI":"https://e-hentai.org",
     "EHENTAISERVER1":"http://ehgt.org/",
     "EHENTAISERVER2":"http://g.e-hentai.org",
     "EHENTAIINFOCOVER":"https://github.com/Haleydu/Cimoc/raw/release-tci/screenshot/icon.png",
 
-
-	"IKANMAN":"https://www.manhuagui.com",
-	"IKANMANTW":"https://tw.manhuagui.com",
-	"IKANMANSERVER":"https://i.hamreus.com",
-
-	"JMTT":"https://jmcomic4.cc",
-	
-	"MANGABZ":"http://www.mangabz.com",
-
-	"MANHUADB":"https://www.manhuadb.com",
-
-        "MANHUATAI":"https://m.manhuatai.com/",
-	"MANHUATAIPIC":"https://www.kanman.com",
-	
-	"OHMANHUA":"https://www.cocomanga.com",
-        "OHMANHUARATELIMIT":2000,
-	
-	"TENCENT":"http://ac.qq.com",
-	"TENCENTM":"https://m.ac.qq.com",
-
-	"WEBTOON":"https://m.webtoons.com",
-
-	"WEBTOONDONGMANMANHUA":"https://www.dongmanmanhua.cn",
-	
-	"YKMH":"http://wap.ykmh.com/",
-	"YKMH_SERVER":"http://js.tingliu.cc",
-	
-	"KUAIKANMANHUA":"https://www.kuaikanmanhua.com",
-        "KUAIKANMANHUASERVER":"https://api.kkmh.com"
+    "JMTT":"https://jmcomic4.cc",
+    "WEBTOON":"https://m.webtoons.com",
 }
