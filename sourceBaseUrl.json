@@ -1,46 +1,14 @@
 {
-    "PUFEIMH":{
-      "baseUrl":"http://m.pufei.cc",
-      "serverUrl":"http://res.img.shengda0769.com/",
-      "search":"",
-
-      "searchInfoList":"#detail > li",
-      "searchInfoCid":"a",
-      "searchInfoTitle":"h3",
-      "searchInfoCover":"div > img",
-      "searchInfoAuthor":"dl > dd",
-      "searchInfoUpdate":"dl:eq(4) > dd",
-
-      "parseInfoTitle":"div.main-bar > h1",
-      "parseInfoCover":"div.book-detail > div.cont-list > div.thumb > img",
-      "parseInfoIntro":"#bookIntro",
-      "parseInfoAuthor":"div.book-detail > div.cont-list > dl:eq(3) > dd",
-      "parseInfoUpdate":"div.book-detail > div.cont-list > dl:eq(2) > dd",
-      "parseInfoStatus":"div.book-detail > div.cont-list > div.thumb > i",
-
-      "parseChapterList1":"#chapterList2 > ul > li > a",
-      "parseChapterList2":"",
-      "parseChapterPath":"",
-      "parseChapterTitle":"",
-
-      "parseImageList":"cp=\"(.*?)\"",
-
-      "parseCategoryPath":"",
-
-      "parseCategoryInfoList":"#detail > li",
-      "parseCategoryInfoCid":"a",
-      "parseCategoryInfoTitle":"h3",      
-      "parseCategoryInfoCover":"img",
-      "parseCategoryInfoAuthor":"dl > dd:eq(3)",
-      "parseCategoryInfoUpdate":"dl > dd"
+    "NineManga":{
+      "baseUrl":"https://en.ninemanga.com",
+    },   
+    "Manga365":{
+      "baseUrl":"https://365manga.com",
+    },    
+    "Manga1stKiss":{
+      "baseUrl":"",
     },
-       
-    "EHENTAI":"https://e-hentai.org",
-    "EHENTAISERVER1":"http://ehgt.org/",
-    "EHENTAISERVER2":"http://g.e-hentai.org",
-    "EHENTAIINFOCOVER":"https://github.com/Haleydu/Cimoc/raw/release-tci/screenshot/icon.png",
-
-    "JMTT":"https://jmcomic4.cc",
-    "WEBTOON":"https://m.webtoons.com/en"
-    
+    "MangaFunny":{
+      "baseUrl":"",
+    } 
 }
