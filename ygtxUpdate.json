@@ -2,11 +2,11 @@
   "Code": 0, 
   "Msg": "", 
   "UpdateStatus": 1,
-  "UploadTime": "2022-1-30 18:00:41",
-  "ApkSize": 23993,
-  "VersionCode": 1220,
-  "VersionName": "1.0.4（1220）",
-  "ApkMd5": "bcf2ce3f0ef160010465a33b54c1cdb6",  
-  "DownloadUrl": "https://api.pingping6.com/tools/lanzou/?down&url=https://haleydu.lanzouq.com/iEBRszg97he",
+  "UploadTime": "2022-9-30 18:00:41",
+  "ApkSize": 15889,
+  "VersionCode": 1221,
+  "VersionName": "1.0.5（1221）",
+  "ApkMd5": "11aa194676b4481465d2deafd77ba994",  
+  "DownloadUrl": "https://github.com/haleydu-test/Cimoc/releases/download/1.6.5-beta06/Cimoc_1.0.5_1221.apk",
   "ModifyContent":"new version"
 }
